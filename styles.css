@@ -31,7 +31,7 @@ body {
 }
 
 .form-div{
-    display: flex; /*Do not need flex here*/
+    display: flex; 
     flex-direction: column;
     justify-content: center;
     align-items: center;
